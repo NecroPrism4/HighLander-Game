@@ -1,0 +1,149 @@
+C:\Users\Alexh\source\repos\HighLander\HighLander\bin\Debug\HighLander.exe.config
+C:\Users\Alexh\source\repos\HighLander\HighLander\bin\Debug\HighLander.exe
+C:\Users\Alexh\source\repos\HighLander\HighLander\bin\Debug\HighLander.pdb
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.exe
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.pdb
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+C:\Users\Alexh\source\repos\HighLander\HighLander\bin\Debug\MaterialSkin.dll
+C:\Users\Alexh\source\repos\HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+G:\HighLander\HighLander\bin\Debug\HighLander.exe.config
+G:\HighLander\HighLander\bin\Debug\HighLander.exe
+G:\HighLander\HighLander\bin\Debug\HighLander.pdb
+G:\HighLander\HighLander\bin\Debug\MaterialSkin.dll
+G:\HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+G:\HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+G:\HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+G:\HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+G:\HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+G:\HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+G:\HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+G:\HighLander\HighLander\obj\Debug\HighLander.exe
+G:\HighLander\HighLander\obj\Debug\HighLander.pdb
+F:\HighLander\HighLander\bin\Debug\HighLander.exe.config
+F:\HighLander\HighLander\bin\Debug\HighLander.exe
+F:\HighLander\HighLander\bin\Debug\HighLander.pdb
+F:\HighLander\HighLander\bin\Debug\MaterialSkin.dll
+F:\HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+F:\HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+F:\HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+F:\HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+F:\HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+F:\HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+F:\HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+F:\HighLander\HighLander\obj\Debug\HighLander.exe
+F:\HighLander\HighLander\obj\Debug\HighLander.pdb
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\bin\Debug\HighLander.exe.config
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\bin\Debug\HighLander.exe
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\bin\Debug\HighLander.pdb
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\bin\Debug\MaterialSkin.dll
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.exe
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.pdb
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+D:\Alexh\Escritorio\EN USO - HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+F:\EN USO - HighLander\HighLander\bin\Debug\HighLander.exe.config
+F:\EN USO - HighLander\HighLander\bin\Debug\HighLander.exe
+F:\EN USO - HighLander\HighLander\bin\Debug\HighLander.pdb
+F:\EN USO - HighLander\HighLander\bin\Debug\MaterialSkin.dll
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.exe
+F:\EN USO - HighLander\HighLander\obj\Debug\HighLander.pdb
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.exe
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.pdb
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe.config
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.pdb
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\MaterialSkin.dll
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+E:\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe.config
+E:\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe
+E:\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.pdb
+E:\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\MaterialSkin.dll
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.exe
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.pdb
+E:\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap4.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap4.resources
+C:\Users\Alumnado\Desktop\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap1.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap1.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap4.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.exe
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.pdb
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe.config
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.exe
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\HighLander.pdb
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\MaterialSkin.dll
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\myLibrary.dll
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\bin\Debug\myLibrary.pdb
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap3.resources
+D:\Alexh\Escritorio\PC ESCUELA - EN USO - HighLander\HighLander\obj\Debug\HighLander.frmCap5.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\bin\Debug\HighLander.exe.config
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\bin\Debug\HighLander.exe
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\bin\Debug\HighLander.pdb
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\bin\Debug\MaterialSkin.dll
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\bin\Debug\myLibrary.pdb
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.csproj.AssemblyReference.cache
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.csproj.SuggestedBindingRedirects.cache
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCap1.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCap2.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCap3.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCap4.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCap5.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmCopyPaste.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.frmPrincipal.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.MessageboxCarpet.frmMaterialMessaBox.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.Properties.Resources.resources
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.csproj.GenerateResource.cache
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.csproj.CoreCompileInputs.cache
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.csproj.CopyComplete
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.exe
+D:\Alexh\Desktop\SemiFinal -  HighLander\HighLander\obj\Debug\HighLander.pdb
